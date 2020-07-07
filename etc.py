@@ -39,5 +39,13 @@ candidates = [
             'dependant' : 2,
             'gpa' : 4.0
         }
+    },{
+        'id':6,
+        'name':'Pime tir',
+        'attributes':{
+            'salary': 100,
+            'dependant' : 200,
+            'gpa' : 4.0
+        }
     }
 ]

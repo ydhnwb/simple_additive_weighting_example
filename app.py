@@ -38,7 +38,7 @@ for i  in range(len(candidates_attr_normalized)):
     for g in range(len(candidates_attr_normalized[i])):
         if g != 0:
             accept = True
-            temp_result = candidates_attr_normalized[i][g] * role[g-1]
+            temp_result += candidates_attr_normalized[i][g] * role[g-1]
         else:
             accept = False
     
