@@ -54,7 +54,7 @@ or you can see this data below
 # How to run this?
 Make sure you have a virtualenvironment created.<br>
 then run using syntax:
-<pre><code>python app.y
+<pre><code>python app.py
 </code></pre>
 
 # Screenshot
