@@ -50,3 +50,13 @@ or you can see this data below
     }
 ]
 </code></pre>
+
+# How to run this?
+Make sure you have a virtualenvironment created.<br>
+then run using syntax:
+<pre><code>python app.y
+</code></pre>
+
+# Screenshot
+
+
