@@ -41,7 +41,7 @@ or you can see this data below
         }
     }, {
         'id':5,
-        'name':'Mr. Layak Beasiswa',
+        'name':'Den Baguse',
         'attributes':{
             'salary': 800000,
             'dependant' : 2,

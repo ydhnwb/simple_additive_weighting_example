@@ -20,7 +20,7 @@ candidates = [
         'name':'Hellboy',
         'attributes':{
             'salary': 1000000,
-            'dependant' : 8,
+            'dependant' : 6,
             'gpa' : 3.1
         }
     }, {
@@ -33,7 +33,7 @@ candidates = [
         }
     }, {
         'id':5,
-        'name':'Mr. Layak Beasiswa',
+        'name':'Den Baguse',
         'attributes':{
             'salary': 800000,
             'dependant' : 2,
