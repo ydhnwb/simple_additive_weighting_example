@@ -9,7 +9,8 @@ class Normalizator:
     def normalize_dependant(self, datas, num_child):
         """Get parents total dependant. Higher is better to get the probability"""
         maximum_num = max(datas)
-        return (num_child/maximum_num)/10
+        print(num_child/maximum_num)
+        return (num_child/maximum_num)
 
     def normalize_gpa(self, datas, gpa):
         """Get gpa. Higher is better"""

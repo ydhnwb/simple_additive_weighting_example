@@ -30,7 +30,7 @@ for i in range(len(candidates_attr)):
 
 # Create a simple weight
 # example, salary weight is 50%, gpa is 25% and dependant is 25%
-role = [50, 25, 25]
+role = [0.5, 0.25, 0.25]
 results = []
 accept = False
 for i  in range(len(candidates_attr_normalized)):
@@ -48,5 +48,5 @@ for i  in range(len(candidates_attr_normalized)):
 results = sorted(results, key = lambda i: i['score'],reverse=True) 
 for x in range(len(results)):
     id = results[x]['id']
-    score = results[x]['score']*10
+    score = results[x]['score']*100
     print(f'User id {id} score {score}%')
