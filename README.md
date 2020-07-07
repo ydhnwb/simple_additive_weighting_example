@@ -58,5 +58,6 @@ then run using syntax:
 </code></pre>
 
 # Screenshot
+![Screenshot](documentation/screenshot.jpg)
 
 
