@@ -20,7 +20,7 @@ candidates = [
         'name':'Hellboy',
         'attributes':{
             'salary': 1000000,
-            'dependant' : 6,
+            'dependant' : 8,
             'gpa' : 3.1
         }
     }, {
